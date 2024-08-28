@@ -11,12 +11,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-  vm_service: ^8.2.2
+  vm_service: 
   path: ^1.8.0
   sqflite: ^2.0.1
 
 dependency_overrides:
-  vm_service: ^8.2.2
+  vm_service: 
 
 dev_dependencies:
   flutter_test:
